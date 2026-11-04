@@ -720,7 +720,7 @@ dose comparison.
 
 st.markdown("""
 ### Model Assumptions & Limitations
-S
+
 This calculator uses the simplified Linear-Quadratic BED
 equation. Its calculations are based on the following
 assumptions and limitations:
